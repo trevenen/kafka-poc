@@ -1,6 +1,6 @@
 
 
-#How to install kakfa on RL9
+#How to install kakfa on Rocky Linux 8
 
 sudo su - 
 dnf install epel-release -y && dnf install java-latest-openjdk -y && dnf install wget vim tar -y 
